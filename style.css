@@ -1,0 +1,72 @@
+body{
+    background-color: cadetblue;
+    margin:0
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+position: fixed;
+top: 0;
+width: 5000px;
+}
+
+li a {
+border-style: solid;
+border-width: 1px;
+border-color: black;
+float: left;
+display: block;
+background-color: darkgrey;
+color: white;
+text-align: center;
+padding: 14px 268px;
+text-decoration: none;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+#hi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: rgb(211, 211, 211);
+    border: 1px solid rgb(0,0,0);
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+    padding: 80px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1{
+    background-color: rgb(211, 211, 211);
+    border: 1px solid rgb(0,0,0);
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+    padding: 80px;
+    text-align: center; 
+}
+
+#lobster1, #goddid , #lobster2 , #wethebest , #roblox , #ocean,  h2 {
+    list-style-type: none;
+    margin-top: 50px;
+    padding: 50px;
+    background-color: rgb(170, 170, 170);
+    border: 1px solid rgb(0,0,0);
+    text-align: center;
+    font-size: xx-large;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+    font-weight: 900;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
